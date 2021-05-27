@@ -1,0 +1,207 @@
+[
+    {
+        "artist": "Handel",
+        "title": "Theme from Water Music",
+        "difficulty": "Beginners Level",
+        "link": "/scores/17234.asp",
+        "otherLink": "https://www.8notes.com/scores/17234.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/water_music001.png"
+        ]
+    },
+    {
+        "artist": "Schubert",
+        "title": "Ave Maria",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/16174.asp",
+        "otherLink": "https://www.8notes.com/scores/16174.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/ave_maria001.png",
+            "https://www.8notes.com/school/png/guitar/ave_maria002.png"
+        ]
+    },
+    {
+        "artist": "Beethoven",
+        "title": "Moonlight Sonata",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/10543.asp",
+        "otherLink": "https://www.8notes.com/scores/10543.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/moonlight_sonata001.png",
+            "https://www.8notes.com/school/png/guitar/moonlight_sonata002.png"
+        ]
+    },
+    {
+        "artist": "Pachelbel",
+        "title": "Canon (easy version)",
+        "difficulty": "Easy Level",
+        "link": "/scores/11782.asp",
+        "otherLink": "https://www.8notes.com/scores/11782.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/pachelbel_canon001.png"
+        ]
+    },
+    {
+        "artist": "Chopin",
+        "title": "Nocturne Op9, No2",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/22525.asp",
+        "otherLink": "https://www.8notes.com/scores/22525.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/Chop_Noct_GTR001.png"
+        ]
+    },
+    {
+        "artist": "Bach",
+        "title": "Minuet in G BWV Ahn. 114",
+        "difficulty": "Easy Level",
+        "link": "/scores/2944.asp",
+        "otherLink": "https://www.8notes.com/scores/2944.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/bach_minuet001.png"
+        ]
+    },
+    {
+        "artist": "Unknown",
+        "title": "Spanish Romance (Sor's Melody)",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/15685.asp",
+        "otherLink": "https://www.8notes.com/scores/15685.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/spanish_romance001.png",
+            "https://www.8notes.com/school/png/guitar/spanish_romance002.png"
+        ]
+    },
+    {
+        "artist": "Carcassi",
+        "title": "Prelude in D",
+        "difficulty": "Beginners Level",
+        "link": "/scores/23526.asp",
+        "otherLink": "https://www.8notes.com/scores/23526.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/Prelude_In_D_Caracssi_GTR001.png"
+        ]
+    },
+    {
+        "artist": "Albeniz",
+        "title": "Asturias (Leyenda)",
+        "difficulty": "Advanced Level",
+        "link": "/scores/2716.asp",
+        "otherLink": "https://www.8notes.com/scores/2716.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/albeniz_asturias_GUIT001.png",
+            "https://www.8notes.com/school/png/guitar/albeniz_asturias_GUIT002.png"
+        ]
+    },
+    {
+        "artist": "Bach",
+        "title": "Air on the G string",
+        "difficulty": "Advanced Level",
+        "link": "/scores/593.asp",
+        "otherLink": "https://www.8notes.com/scores/593.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/bach_air001.png",
+            "https://www.8notes.com/school/png/guitar/bach_air002.png"
+        ]
+    },
+    {
+        "artist": "Beethoven",
+        "title": "Fur Elise",
+        "difficulty": "Advanced Level",
+        "link": "/scores/592.asp",
+        "otherLink": "https://www.8notes.com/scores/592.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/beethoven_fur_elise001.png"
+        ]
+    },
+    {
+        "artist": "Bach",
+        "title": "Prelude no.1 in C",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/9458.asp",
+        "otherLink": "https://www.8notes.com/scores/9458.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/bach_prelude_1GTR001.png",
+            "https://www.8notes.com/school/png/guitar/bach_prelude_1GTR002.png"
+        ]
+    },
+    {
+        "artist": "Brahms",
+        "title": "Hungarian Dance No.5",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/17235.asp",
+        "otherLink": "https://www.8notes.com/scores/17235.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/hungarian_dance001.png"
+        ]
+    },
+    {
+        "artist": "Mozart",
+        "title": "Turkish March",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/29551.asp",
+        "otherLink": "https://www.8notes.com/scores/29551.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/turkish_march_GUIT001.png"
+        ]
+    },
+    {
+        "artist": "Bach",
+        "title": "Bourree BWV 1009 from Cello Suite No.3",
+        "difficulty": "Advanced Level",
+        "link": "/scores/2717.asp",
+        "otherLink": "https://www.8notes.com/scores/2717.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/bach_bouree_bwv1009_GUIT001.png",
+            "https://www.8notes.com/school/png/guitar/bach_bouree_bwv1009_GUIT002.png"
+        ]
+    },
+    {
+        "artist": "Beethoven",
+        "title": "Ode to Joy",
+        "difficulty": "Easy Level",
+        "link": "/scores/578.asp",
+        "otherLink": "https://www.8notes.com/scores/578.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/beethoven_ode_to_joy001.png"
+        ]
+    },
+    {
+        "artist": "Ravel",
+        "title": "Bolero",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/17231.asp",
+        "otherLink": "https://www.8notes.com/scores/17231.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/bolero001.png"
+        ]
+    },
+    {
+        "artist": "Vivaldi",
+        "title": "Autumn from the Four Seasons",
+        "difficulty": "Easy Level",
+        "link": "/scores/13188.asp",
+        "otherLink": "https://www.8notes.com/scores/13188.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/vivaldi_autumn001.png",
+            "https://www.8notes.com/school/png/guitar/vivaldi_autumn002.png"
+        ]
+    },
+    {
+        "artist": "Trad.",
+        "title": "Joy to the World",
+        "difficulty": "Easy Level",
+        "link": "/scores/20432.asp",
+        "otherLink": "https://www.8notes.com/scores/20432.asp",
+        "imageLinks": [
+            "https://www.8notes.com/school/png/guitar/Joy_to_the_World_GTR001.png"
+        ]
+    },
+    {
+        "artist": "Bach",
+        "title": "Toccata and Fugue in D minor (excerpt)",
+        "difficulty": "Intermediate Level",
+        "link": "/scores/2823.asp",
+        "otherLink": "https://www.8notes.com/scores/2823.asp"
+    }
+]

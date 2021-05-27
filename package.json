@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chromedriver": "^91.0.4472.77",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.10",
+    "npm": "^7.9.0",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  },
+  "name": "node-js_deneme",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " set NODE_ENV=development && node app.js stillara --still='jazz'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
